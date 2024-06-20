@@ -1,0 +1,3 @@
+[submodule "LMS-Frontend"]
+	path = LMS-Frontend
+	url = https://github.com/Anujc07/LMS-Frontend.git
